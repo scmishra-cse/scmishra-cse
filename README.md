@@ -1,4 +1,4 @@
-<img src="https://toppng.com/public/uploads/preview/cool-avatar-transparent-image-cool-boy-avatar-11562893383qsirclznyw.png" width="200%">
+<img src="https://toppng.com/public/uploads/preview/cool-avatar-transparent-image-cool-boy-avatar-11562893383qsirclznyw.png" width="100%">
 
 <h2> Hey there! I'm Shubham.</h2>
 
