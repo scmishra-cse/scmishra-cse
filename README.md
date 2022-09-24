@@ -2,13 +2,13 @@
 
 <h2> Hey there! I'm Shubham.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me 🚀</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering at Sarala Birla University.
 - 💼 &nbsp; Working as Frontend Developer.
-- 🌱 &nbsp; Learning more about Algorithms, Cloud and Machine learning.
-- ✍️ &nbsp; Pursuing Android App Development and Web Applications Development as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Web Dev and DevOps.
+- ✍️ &nbsp; Pursuing Web Applications Development as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -43,4 +43,8 @@
 <a href="mailto:phsmishra@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-phsmishra@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [scmishra-cse](https://github.com/scmishra-cse)
+⭐️ From [scmishra-cse](https://github.com/scmishra-cse)<br/>
+☕ Buy me a coffee - [scmishra](https://www.buymeacoffee.com/scmishra)<br/>
+💰 Patreon - [scmishra](https://www.patreon.com/scmishra)
+
+
