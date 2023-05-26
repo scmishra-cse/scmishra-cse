@@ -35,9 +35,12 @@
 
 <br/>
 
-![Shubham Chandra Mishra Github Stats](https://github-readme-stats.vercel.app/api?username=scmishra-cse&show_icons=true&include_all_commits=true&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=scmishra-cse&theme=dark&hide_border=false)<br/>
+![Shubham Chandra Mishra GitHub](https://github-readme-stats.vercel.app/api?username=scmishra-cse&show_icons=true&include_all_commits=true&theme=radical)
 
-[![Shubham's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=scmishra-cse&theme=github-compact)](https://github.com/scmishra-cse/github-readme-activity-graph)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=scmishra-cse&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
